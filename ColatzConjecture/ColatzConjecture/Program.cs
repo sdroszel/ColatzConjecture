@@ -8,28 +8,17 @@ namespace ColatzConjecture
         static void Main(string[] args)
         {
             bool isQuit = false;
-            string quit = "";
 
             while (!isQuit)
             {
-                Console.WriteLine("Number of steps: " + SolveConjecture());
-                Console.Write("Enter QUIT to exit or ENTER to test new number: ");
-                quit = Console.ReadLine();
-                quit = quit.ToLower();
-                if (quit == "quit")
-                {
-                    isQuit = true;
-                }
-                else
-                {
-                    continue;
-                }
+                SolveConjecture();
+                isQuit = Quit();
             }
         }
 
-        private static int SolveConjecture()
+        private static void SolveConjecture()
         {
-            Console.Write("Enter any positive integer greater than 1: ");
+            Console.Write("\nEnter any positive integer greater than 1: ");
             string userInput_str = Console.ReadLine();
             int n = int.Parse(userInput_str);
 
@@ -50,7 +39,22 @@ namespace ColatzConjecture
                 }
             }
 
-            return steps;
+            Console.WriteLine("Number of steps: " + steps);
+        }
+
+        private static bool Quit()
+        {
+            Console.Write("\nEnter QUIT to exit or ENTER to test new number: ");
+            string quit = Console.ReadLine();
+            quit = quit.ToLower();
+            if (quit == "quit")
+            {
+                return true;
+            }
+            else
+            {
+                return false;
+            }
         }
     }
 }
