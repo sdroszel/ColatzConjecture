@@ -37,7 +37,6 @@ namespace ColatzConjecture
                     DisplayError();
                 }
             }
-
         }
 
         private static string GetUserInput()
@@ -72,7 +71,7 @@ namespace ColatzConjecture
                         steps++;
                     }
                 }
-
+                
                 DisplayResult(steps);
             }
             else
