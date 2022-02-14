@@ -20,7 +20,9 @@ namespace ColatzConjecture
         private static void SolveConjecture()
         {
             Console.Write("\nEnter any positive integer greater than 1 or type QUIT to exit: ");
+            Console.ForegroundColor = ConsoleColor.DarkYellow;
             string userInput_str = Console.ReadLine();
+            Console.ResetColor();
             userInput_str = userInput_str.ToLower();
 
             if (userInput_str == "quit")
@@ -49,13 +51,16 @@ namespace ColatzConjecture
                             steps++;
                         }
                     }
+                    Console.ForegroundColor = ConsoleColor.Green;
                     Console.WriteLine("Number of steps: " + steps);
+                    Console.ResetColor();
                 }
 
                 catch (Exception)
                 {
-
+                    Console.ForegroundColor = ConsoleColor.Red;
                     Console.WriteLine("Incorrect input. Enter an integer greater than 1.");
+                    Console.ResetColor();
                     SolveConjecture();
                 }
             }
