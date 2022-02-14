@@ -1,0 +1,16 @@
+D:\GithubProjects\ColatzConjecture\ColatzConjecture\ColatzConjecture\bin\Debug\net5.0\ColatzConjecture.exe
+D:\GithubProjects\ColatzConjecture\ColatzConjecture\ColatzConjecture\bin\Debug\net5.0\ColatzConjecture.deps.json
+D:\GithubProjects\ColatzConjecture\ColatzConjecture\ColatzConjecture\bin\Debug\net5.0\ColatzConjecture.runtimeconfig.json
+D:\GithubProjects\ColatzConjecture\ColatzConjecture\ColatzConjecture\bin\Debug\net5.0\ColatzConjecture.runtimeconfig.dev.json
+D:\GithubProjects\ColatzConjecture\ColatzConjecture\ColatzConjecture\bin\Debug\net5.0\ColatzConjecture.dll
+D:\GithubProjects\ColatzConjecture\ColatzConjecture\ColatzConjecture\bin\Debug\net5.0\ref\ColatzConjecture.dll
+D:\GithubProjects\ColatzConjecture\ColatzConjecture\ColatzConjecture\bin\Debug\net5.0\ColatzConjecture.pdb
+D:\GithubProjects\ColatzConjecture\ColatzConjecture\ColatzConjecture\obj\Debug\net5.0\ColatzConjecture.csproj.AssemblyReference.cache
+D:\GithubProjects\ColatzConjecture\ColatzConjecture\ColatzConjecture\obj\Debug\net5.0\ColatzConjecture.GeneratedMSBuildEditorConfig.editorconfig
+D:\GithubProjects\ColatzConjecture\ColatzConjecture\ColatzConjecture\obj\Debug\net5.0\ColatzConjecture.AssemblyInfoInputs.cache
+D:\GithubProjects\ColatzConjecture\ColatzConjecture\ColatzConjecture\obj\Debug\net5.0\ColatzConjecture.AssemblyInfo.cs
+D:\GithubProjects\ColatzConjecture\ColatzConjecture\ColatzConjecture\obj\Debug\net5.0\ColatzConjecture.csproj.CoreCompileInputs.cache
+D:\GithubProjects\ColatzConjecture\ColatzConjecture\ColatzConjecture\obj\Debug\net5.0\ColatzConjecture.dll
+D:\GithubProjects\ColatzConjecture\ColatzConjecture\ColatzConjecture\obj\Debug\net5.0\ref\ColatzConjecture.dll
+D:\GithubProjects\ColatzConjecture\ColatzConjecture\ColatzConjecture\obj\Debug\net5.0\ColatzConjecture.pdb
+D:\GithubProjects\ColatzConjecture\ColatzConjecture\ColatzConjecture\obj\Debug\net5.0\ColatzConjecture.genruntimeconfig.cache
